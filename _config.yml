@@ -1,0 +1,10 @@
+name: Yunhui Guo, Phd Student
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
+
+gems:
+  - jekyll-seo-tag
+
+plugins:
+  - jekyll-seo-tag
